@@ -6,8 +6,7 @@
 
   <p style="font-weight: 700; font-size: 15px; color: #282d33; line-height: 1.8;">
       <br/>
-    2022년부터 하던 일을 그만두고,<br/>
-    웹 개발자 준비를 하였고,<br/><br/>
+    2022년부터 본격적인 웹 개발자 준비를 하였고,<br/>
     현재는 <b>React + TypeScript</b>, <b>Spring Boot JPA</b>를<br/>
     활용한 웹 페이지를 만들고 있습니다.
   </p>
